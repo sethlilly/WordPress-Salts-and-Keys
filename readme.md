@@ -28,7 +28,8 @@ With the block of code selected or your cursor placed at the desired location, s
 
 ###License
 ----
-Released under the GPL v3 license. Fork, iterate, release. Have fun! Want to help make it better? Make your changes, then [submit a pull request](https://github.com/sethlilly/WordPress-Salts-and-Keys/pulls).
+Released under the GPL v3 license. Fork, iterate, release. Have fun!  
+Want to help make it better? Make your changes, then [submit a pull request](https://github.com/sethlilly/WordPress-Salts-and-Keys/pulls).
 
 ###Version Information
 ----
