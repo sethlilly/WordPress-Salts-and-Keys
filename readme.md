@@ -6,7 +6,7 @@ _WordPress Salts and Keys_ is a plugin for [Coda](http://panic.com/coda/) (versi
 ---
 In Coda, select the existing set of salts and keys in wp-config.php. Alternatively, you may simply place the cursor at the desired location in your document. Typically, the existing salts and keys are located in a block which looks like this:
 
-	/**#@+
+	/**
  	* Authentication Unique Keys and Salts.
  	*
  	* Change these to different unique phrases!
